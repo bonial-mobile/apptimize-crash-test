@@ -1,0 +1,25 @@
+build/*
+
+**/*.pbxuser
+*.mode2v3
+*.mode1v3
+**/*.perspectivev*
+*~.nib
+xcuserdata
+project.xcworkspace
+
+# generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+profile
+
+**/debugInfo
+**/debugInfo.plist
+**/.idea
+/Project/artifacts/*
+/project/*.mobileprovision
+/Project/Carthage
+/Project/.bundle/
